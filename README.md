@@ -3,8 +3,8 @@ Starter template for creating website in gitpod or replit
 
 Deze website is gebaseerd op het template voor 4HV van het Emmauscollege Rotterdam
 
-## Mijn website: *onderwerp*
-Gemaakt door: *naam van leerling*
+## Mijn website: *kpop*
+Gemaakt door: *lucy*
 
 ## Mijn planning
 Werk de planning af van boven naar beneden<br>
@@ -21,7 +21,7 @@ Stap 2: Bestandsstructuur opzetten
 - [ ] Je hebt bepaald wat je op de hoofdpagina en de subpagina’s (minimaal 4) wilt laten zien.
 - [ ] Je maakt een html-bestand voor alle pagina’s. De titel en het menu staan erop, maar de inhoud nog niet. 
 - [ ] Je hebt een werkend menu waarmee je naar de verschillende pagina’s kunt gaan, de layout kun je later nog aanpassen en mooi maken. 
-
+s
 Stap 3: Lay-out 
 - [ ] Je hebt de lay-out (welk onderdeel komt waar op het scherm) van je pagina’s gekozen. Het is handig om voor al je pagina’s dezelfde lay-out te gebruiken. 
 - [ ] HAVO: Voor de layout heb je het ontwerp van de voorbeeldwebsite uitgebreid en aangepast aan jouw onderwerp 
