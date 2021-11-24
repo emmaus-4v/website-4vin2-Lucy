@@ -6,7 +6,7 @@ html, body {
     background-color: #e6e6e6;  
     
     color: #303030;
-    font: verdana, Arial, Sans-Serif;
+    font: verdana, Arial, Serif;
 }
 
 
@@ -82,7 +82,11 @@ nav li a:hover {
 
 nav li a.active {
     background-color: rgb(0, 0, 0);
+
 }
+
+ 
+
 
 
 
