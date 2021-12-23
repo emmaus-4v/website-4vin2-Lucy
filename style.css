@@ -27,7 +27,8 @@ html, body {
   .dropdown-content {
     display: none;
     position: absolute;
-    width: inherit;
+    background-color: black;
+    border-radius: 25px;
   }
 
   /* Show the dropdown menu on hover */
@@ -127,13 +128,12 @@ h2 {
   }
   
 .BoyGroupImages {
-    width:500px;
-    height: 350px;
     margin-top:  50px;
-    display: block;
+    display: flex;
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 50px;
+    width: 75%;
     
 }
 #jungwon {
@@ -141,18 +141,18 @@ h2 {
     height: 900px;
     
 }
-#ytVid {
-    text-align: center;
 
-}
 #ive.image {
     width: 3px;
     height:300px;
 }
 
-.video{
-    width: 600px;
-    height: 400px; 
+iframe {
+    width: 90%;
+    height: 350px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
 }
 
  
