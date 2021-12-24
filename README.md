@@ -23,14 +23,14 @@ Stap 2: Bestandsstructuur opzetten
 - [x] Je hebt een werkend menu waarmee je naar de verschillende pagina’s kunt gaan, de layout kun je later nog aanpassen en mooi maken. 
 s
 Stap 3: Lay-out 
-- [ ] Je hebt de lay-out (welk onderdeel komt waar op het scherm) van je pagina’s gekozen. Het is handig om voor al je pagina’s dezelfde lay-out te gebruiken. 
+- [x] Je hebt de lay-out (welk onderdeel komt waar op het scherm) van je pagina’s gekozen. Het is handig om voor al je pagina’s dezelfde lay-out te gebruiken. 
 - [x] HAVO: Voor de layout heb je het ontwerp van de voorbeeldwebsite uitgebreid en aangepast aan jouw onderwerp 
-- [ ] VWO: Voor de layout heb je je eigen ontwerp (wireframe) gemaakt en je hebt hiervoor zelf de basis html en CSS gemaakt.
-- [ ] Je hebt de onderdelen uit de layout in je html benoemd met tags, classes en/of ID’s. Je hebt met CSS ervoor gezorgd dat deze onderdelen op de juiste plaats op de pagina worden weergegeven.
+- [x] VWO: Voor de layout heb je je eigen ontwerp (wireframe) gemaakt en je hebt hiervoor zelf de basis html en CSS gemaakt.
+- [x] Je hebt de onderdelen uit de layout in je html benoemd met tags, classes en/of ID’s. Je hebt met CSS ervoor gezorgd dat deze onderdelen op de juiste plaats op de pagina worden weergegeven.
 
 Stap 4: Inhoud en plaatjes 
-- [ ] Je hebt in html de inhoud op je hoofdpagina en al je subpagina’s gezet. 
-- [ ] Je hebt plaatjes bij je inhoud gezocht, omgezet naar de juiste resolutie en op je website gezet. Alle plaatjes moet je opslaan, je linkt niet naar plaatjes op andere websites, die kunnen immers verwijderd worden. 
+- [x] Je hebt in html de inhoud op je hoofdpagina en al je subpagina’s gezet. 
+- [x] Je hebt plaatjes bij je inhoud gezocht, omgezet naar de juiste resolutie en op je website gezet. Alle plaatjes moet je opslaan, je linkt niet naar plaatjes op andere websites, die kunnen immers verwijderd worden. 
 
 Stap 5: Kleuren 
 - [ ] Je hebt kleuren en fonts gekozen. 
@@ -47,7 +47,8 @@ Stap 7: Eye catchers
 
 ### Uitbreidingen
 Kies de uitbreidingen die je leuk vindt en maak je website nog mooier
-- [ ] ...
+- [x] dropdown 
+https://www.w3schools.com/howto/howto_css_dropdown.asp
 
 ## Documentatie
 - Khan Academy cursus Intro to HTML en CSS 
@@ -63,4 +64,7 @@ https://emmauscollege.github.io/informatica/website/
 
 ## Credits
 - Website template van het Emmauscollege Rotterdam https://github.com/emmauscollege/4HV-website-template
-- ...
+- dropdown https://www.w3schools.com/howto/howto_css_dropdown.asp
+- youtube filmpje https://www.w3schools.com/html/html_youtube.asp
+
+

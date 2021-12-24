@@ -5,7 +5,7 @@ html, body {
     padding: 0;
     background-color: #e6e6e6;  
     
-    color: #303030;
+    color: #464545;
     font: verdana, Arial, Serif;
 }
 
@@ -63,10 +63,6 @@ footer {
 
 /* specifieke stijlen */
 
-img.zweefLinks {
-    float: left;
-    margin-right: 15px;
-}
 
 .smalltext {
     font-size: 0.7em;
@@ -87,7 +83,7 @@ nav ul {
     list-style-type: none;
     margin: auto;
     padding: 0;
-    background-color: #dddddd;
+    background-color: #9c9a9a;
 }
 
 nav ul li {
@@ -136,17 +132,7 @@ h2 {
     width: 75%;
     
 }
-#jungwon {
-    width:600px;
-    height: 900px;
     
-}
-
-#ive.image {
-    width: 3px;
-    height:300px;
-}
-
 iframe {
     width: 90%;
     height: 350px;
