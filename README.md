@@ -66,5 +66,6 @@ https://emmauscollege.github.io/informatica/website/
 - Website template van het Emmauscollege Rotterdam https://github.com/emmauscollege/4HV-website-template
 - dropdown https://www.w3schools.com/howto/howto_css_dropdown.asp
 - youtube filmpje https://www.w3schools.com/html/html_youtube.asp
+- foto's komen allemaal van https://nl.pinterest.com/
 
 
