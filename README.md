@@ -37,12 +37,12 @@ Stap 5: Kleuren
 - [x] Je hebt de kleuren en fonts in CSS toegevoegd. 
 
 Stap 6: Perfectioneren 
-- [ ] Je hebt slordigheden in de lay-out, kleuren en inhoud gerepareerd. 
-- [ ] Je hebt gezorgd dat je HTML en CSS goed leesbaar zijn (geen herhaling, uit logische onderdelen opgebouwd, inclusief commentaar, …)
-- [ ] Je hebt gecontroleerd of de lay-out werkt op een groter venster, een kleiner venster, een ander apparaat en andere browser. 
+- [x] Je hebt slordigheden in de lay-out, kleuren en inhoud gerepareerd. 
+- [x] Je hebt gezorgd dat je HTML en CSS goed leesbaar zijn (geen herhaling, uit logische onderdelen opgebouwd, inclusief commentaar, …)
+- [x] Je hebt gecontroleerd of de lay-out werkt op een groter venster, een kleiner venster, een ander apparaat en andere browser. 
 
 Stap 7: Eye catchers 
-- [ ] Je hebt een aantal extra dingen toegevoegd die je website nog mooier maken. Denk bijvoorbeeld aan animaties met CSS, een responsive design (=website heeft een andere indeling op apparaten met een kleiner scherm), een fotogalerij, visuele effecten als je met je muis ergens overheen beweegt, vernieuwingen in het ontwerp van een gebruikte voorbeeldwebsite etc.
+- [x] Je hebt een aantal extra dingen toegevoegd die je website nog mooier maken. Denk bijvoorbeeld aan animaties met CSS, een responsive design (=website heeft een andere indeling op apparaten met een kleiner scherm), een fotogalerij, visuele effecten als je met je muis ergens overheen beweegt, vernieuwingen in het ontwerp van een gebruikte voorbeeldwebsite etc.
 
 
 ### Uitbreidingen
@@ -67,5 +67,8 @@ https://emmauscollege.github.io/informatica/website/
 - dropdown https://www.w3schools.com/howto/howto_css_dropdown.asp
 - youtube filmpje https://www.w3schools.com/html/html_youtube.asp
 - foto's komen allemaal van https://nl.pinterest.com/
+- https://en.wikipedia.org/wiki/J-pop
+- https://en.wikipedia.org/wiki/C-pop
+- https://en.wikipedia.org/wiki/K-pop
 
 
