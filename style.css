@@ -66,6 +66,7 @@ footer {
 
 .smalltext {
     font-size: 0.7em;
+    color: violet;
 }
 
 a {
@@ -147,7 +148,6 @@ iframe {
     margin-right: auto;
     display: block;
 }
-
 
 
 
